@@ -8,7 +8,7 @@
 
 ### This is where i come in as an analyst, i tend to give suggestions on neccessary actions to take to improve the flow of the business and suggestions on how to improve productivity and reduce expenditure if necessary.
 
-**[Project 1: PowerBI Project](https://github.com/NestoOkpala/My-Data-Analyst-portfolio-projects/blob/main/My%20PBI%20FILE%20LINKS.txt)**
+#**[Project 1: PowerBI Project](https://github.com/NestoOkpala/My-Data-Analyst-portfolio-projects/blob/main/My%20PBI%20FILE%20LINKS.txt)**
 
 ![Capture 1](https://user-images.githubusercontent.com/111897922/192105891-02e0bdf5-2d80-4a06-9f79-09f54c066415.PNG)
 ![Capture 2](https://user-images.githubusercontent.com/111897922/192105902-e091d70f-0308-4498-a0ae-eb09b27e7f89.PNG)
